@@ -1,5 +1,5 @@
+# Plataforma de estudo de Python
 
-200
 ## Executar localmente
 
 **Pré-requisitos:** Node.js
