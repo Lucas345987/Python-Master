@@ -1,4 +1,4 @@
-# Plataforma de estudo de Python
+# Python Master: Plataforma de Estudos
 
 ## Executar localmente
 
